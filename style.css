@@ -2,7 +2,7 @@ h1 {
   color: red;
   background-color: lightblue;
   border: 0.5cm dashed violet;
-  border-bottom-left-radius: 35px;
-  border-top-right-radius: 35px;
+
+  border-radius: 50px;
   text-align: center;
 }
